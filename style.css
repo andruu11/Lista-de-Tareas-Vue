@@ -1,0 +1,12 @@
+* {
+    list-style: none;
+}
+
+.container {
+    margin-top: 150px;
+}
+
+.estado {
+    color: gray;
+    text-decoration: line-through;
+}
